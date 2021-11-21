@@ -1,0 +1,11 @@
+<RCC>
+  <qresource>
+    <file>img/login.png</file>
+    <file>img/image.jpg</file>
+    <file>img/img.png</file>
+    <file>img/icon.png</file>
+    <file>img/inscription.png</file>
+    <file>img/Femme.png</file>
+    <file>img/Homme.png</file>
+  </qresource>
+</RCC>
